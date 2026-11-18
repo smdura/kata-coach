@@ -1,0 +1,14 @@
+{
+  "name": "Kata Coach",
+  "short_name": "Kata Coach",
+  "description": "Learn your Wado-ryu kata for gradings.",
+  "start_url": "./index.html#home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef0f6",
+  "theme_color": "#26388f",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
